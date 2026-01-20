@@ -226,7 +226,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     sty.h1
                   )}
                 >
-                  {"Hey there, Anna here !!!\ud83d\udc4b"}
+                  {"\u2b50\ufe0f Hey there, Anna here !!!\ud83d\udc4b"}
                 </h1>
                 <div
                   className={classNames(
