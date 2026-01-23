@@ -589,6 +589,7 @@
   max-width: 100%;
   object-fit: cover;
   position: relative;
+  width: 645px;
 }
 .projectCard__l6Uai:global(.__wab_instance) {
   position: relative;
